@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Alexander1321x1/Alexander1321x1/blob/main/461586112-452fc55d-1930-4eb2-a530-1980377ff627.gif?raw=true" alt="Welcome GIF" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">Backend Developer | Tech Enthusiast | Cat Lover from Germany 🇩🇪</h3>
 
