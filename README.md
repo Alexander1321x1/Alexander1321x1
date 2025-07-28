@@ -7,7 +7,7 @@
 
 - 📫 You can reach me on Discord: **Alexander1321**
 
-- 📄 Know about my experiences **I'm currently in my second year of computer science.**
+- 📄 my experiences: **I'm currently in my second year of computer science.**
 
 - ⚡ Fun fact **I like cats.**
 
