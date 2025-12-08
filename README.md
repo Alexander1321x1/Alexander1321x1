@@ -17,20 +17,20 @@
 I'm diving into the worlds of **TypeScript** and **Rust**, expanding my backend expertise and learning how to write faster and more reliable code.
 
 💬 **About Me:**  
-I'm a second-year **Computer Science** student with a strong interest in backend systems, cloud infrastructure, and DevOps practices.
+I'm a second-year **Software Engineer** student with a strong interest in backend systems, cloud infrastructure, and DevOps practices.
 
 📫 **Let's connect on Discord:**  
 **Alexander1321**
 
 ⚡ **Fun Fact:**  
-I'm a big fan of cats—if I'm not coding, I'm probably watching cat videos 🐾
+I'm a big fan of cats🐾
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <!-- Optional: Add your LinkedIn, personal website, etc. -->
-<i>More links coming soon...</i>
+<i>Nothing here :( </i>
 </p>
 
 ---
